@@ -1,0 +1,2 @@
+
+git aracılığıyla cart curt
